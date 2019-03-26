@@ -1,6 +1,8 @@
 # Data-Mining-Projects
-数据挖掘项目练习，PRACTICES,PRACTICES AND PRACTICES!
+数据分析媛进阶之路
 ------
+在这里会记录我的整个学习过程，主要包括各种学习笔记，读书笔记，数据分析项目。  
+
 + python基础语法  
 + 数据探索性分析  
 + 数据处理  
